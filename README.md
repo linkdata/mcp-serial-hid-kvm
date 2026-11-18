@@ -2,7 +2,7 @@
 
 MCP (Model Context Protocol) server that gives AI agents full keyboard, mouse, and screen access to a physical PC. Thin client for [serial-hid-kvm](https://github.com/sunasaji/serial-hid-kvm) — all hardware control is delegated via TCP.
 
-The Go port is being developed in [autopaws](https://github.com/linkdata/autopaws), with the `autopaws-mcp` server. That repository is currently private and unreleased.
+The Go port is being developed in [autopaws](https://github.com/linkdata/autopaws), with the `autopaws-mcp` server. That repository is private and requires repository access.
 
 ## How It Works
 
